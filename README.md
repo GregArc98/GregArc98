@@ -4,7 +4,7 @@
   
   - 👨🏾‍💻 Atualmente atuo como freelancer
   
-  - 📈 Todos os meus projetos realizados: ['link do projeto sendo feito']()
+  - 📈 Todos os meus projetos realizados: [🚨 Portifólio em construção]()
   
   <br>
   
