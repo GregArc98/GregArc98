@@ -6,8 +6,6 @@
   
   - 📈 Todos os meus projetos realizados: ['link do projeto sendo feito']
   
-  - 🧠 Tenho conhecimento sobre: HTML5 | CSS3 Bootstrap Bulma | Javascript ReactJS NodeJS
-  
   <br>
   
   ## 🛠️ &nbsp;Tecnologias que domino
