@@ -8,6 +8,14 @@
   
   <br>
   
+  ## 🖥️ &nbsp;Ferramentas que utilizo para trabalho
+ <p> 
+<img align='center' alt='UBUNTU' src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'>
+<img align='center' alt='INTEL CORE' src='https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white'>
+<img align='center' alt='VS CODE' src='https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg'>
+</p> 
+  <br>
+  
   ## 🛠️ &nbsp;Tecnologias que domino
 <p>  
 <img align='center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'> 
