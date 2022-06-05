@@ -1,4 +1,4 @@
-<h1> Bem vindo ao meu perfil! Eu sou Matheus Gregório! <img src='https://user-images.githubusercontent.com/102739750/164738431-65529989-d504-47fc-98c3-577a0af29049.gif' width='30px'> </h1>
+<h1> Bem vindo ao meu perfil! Eu sou Matheus Gregório! <img src='https://user-images.githubusercontent.com/102739750/164738431-65529989-d504-47fc-98c3-577a0af29049.gif' width='10px'> </h1>
   
   - 🔥 Desenvolvedor Front-End Jr
   
