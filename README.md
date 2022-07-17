@@ -10,7 +10,7 @@
   
   ## 🖥️ &nbsp;Ferramentas que utilizo para trabalho
  <p> 
-<img align='center' alt='UBUNTU' src='https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white'>
+<img align='center' alt='WINDOWS' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>
 
 <img align='center' alt='VS CODE' src='https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg'>
 </p> 
