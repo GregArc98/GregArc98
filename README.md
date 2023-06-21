@@ -1,29 +1,22 @@
-<h1> <img src='https://user-images.githubusercontent.com/102739750/164738431-65529989-d504-47fc-98c3-577a0af29049.gif'  height='60px'> Bem vindo ao meu perfil! Eu sou Matheus Gregório! <img src='https://user-images.githubusercontent.com/102739750/164738431-65529989-d504-47fc-98c3-577a0af29049.gif'  height='60px'> </h1>
+<h1> <img src='https://user-images.githubusercontent.com/102739750/164738431-65529989-d504-47fc-98c3-577a0af29049.gif'  height='60px'>Hello There! I'm Matheus Gregório!<img src='https://user-images.githubusercontent.com/102739750/164738431-65529989-d504-47fc-98c3-577a0af29049.gif'  height='60px'> </h1>
   
-  - 🔥 Desenvolvedor Full-Stack
+  - 🔥 Full-Stack Developer
   
-  - 👨🏾‍💻 Atualmente atuo como freelancer
+  - 👨🏾‍💻 Intern at ArcelorMittal
   
-  - 📈 Todos os meus projetos realizados: [🚨 Portifólio em construção]()
+  - 📈 All my projects: [🚨 Portfolio in construction]()
   
   <br>
   
-  ## 🖥️ &nbsp;Ferramentas que utilizo para trabalho
+  ## 🖥️ &nbsp;Softwares and Technologies that I have knowledge 
  <p> 
 <img align='center' alt='WINDOWS' src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'>
-
-<img align='center' alt='VS CODE' src='https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg'>
-</p> 
-  <br>
-  
-  ## 🛠️ &nbsp;Tecnologias que apresento conhecimento
-<p>  
+<img align='center' alt='VS CODE' src='https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg'> 
 <img align='center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'> 
 <img align='center' alt='CSS' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'> 
 <img align='center' alt='BOOTSTRAP' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
 <img align='center' alt='SASS' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
 <img align='center' alt='JAVASCRIPT' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-
 </p>  
   <br>
   
