@@ -17,6 +17,8 @@
 <img align='center' alt='BOOTSTRAP' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'>
 <img align='center' alt='SASS' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'>
 <img align='center' alt='JAVASCRIPT' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
+<img align='center' alt='GIT' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+<img align='center' alt='POSTGRESQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
 </p>  
   <br>
   
