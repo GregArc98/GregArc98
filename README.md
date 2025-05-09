@@ -2,7 +2,7 @@
   
   - 🔥 Full-Stack Developer
   
-  - 👨🏾‍💻 Intern at ArcelorMittal
+  - 👨🏾‍💻 Trainee at ICMC Junior
   
   - 📈 All my projects: [🚨 Portfolio in construction]()
   
