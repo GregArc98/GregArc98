@@ -2,7 +2,7 @@
   
   - 🔥 Full-Stack Developer
   
-  - 👨🏾‍💻 Trainee at ICMC Junior
+  - 👨🏾‍💻 Member at ICMC Junior
   
   - 📈 All my projects: [🚨 Portfolio in construction]()
   
